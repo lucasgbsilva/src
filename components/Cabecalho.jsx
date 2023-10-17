@@ -6,7 +6,7 @@ export default function Cabecalho() {
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container">
         <Link className="navbar-brand" to="/">
-          Fausto's App
+          Lucas's App
         </Link>
         <button
           className="navbar-toggler"
